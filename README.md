@@ -1,6 +1,6 @@
 # Network Tools running in containers!
 
-![logo](./github/logo.png])
+![logo](.github/logo.png])
 
 ## Available Network Tools
 
