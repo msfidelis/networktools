@@ -19,11 +19,11 @@
 ## Example
 
 ```bash
-docker run -it networktools host nanoshots.com.br
+docker run -it msfidelis/networktools host nanoshots.com.br
 ```
 
 ## Specify a DNS server
 
 ```bash
-docker run --dns=8.8.8.8 -it networktools host nanoshots.com.br
+docker run --dns=8.8.8.8 -it msfidelis/networktools host nanoshots.com.br
 ```
